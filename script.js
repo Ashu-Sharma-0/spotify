@@ -13,11 +13,11 @@ let currentSongIndex = null; // To keep track of the currently playing song inde
 
 
 let songs =[
-    {songName: "O Mahi O Mahi", filepath: "songs/1.mp3", coverPath: "/covers/1.jpg"},
-    {songName: "O Sajni Re", filepath: "songs/2.mp3", coverPath: "/covers/2.jpg"},
-    {songName: "Heeriye", filepath: "songs/3.mp3", coverPath: "/covers/3.jpg"},
-    {songName: "Kabhi Jo Badal ", filepath: "songs/4.mp3", coverPath: "/covers/4.jpg"},
-    {songName: "Shiddat", filepath: "songs/5.mp3", coverPath: "/covers/5.jpg"},
+    {songName: "O Mahi O Mahi", filepath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "O Sajni Re", filepath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Heeriye", filepath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Kabhi Jo Badal ", filepath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Shiddat", filepath: "songs/5.mp3", coverPath: "covers/5.jpg"},
 ]
 
 
