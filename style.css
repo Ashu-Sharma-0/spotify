@@ -52,7 +52,7 @@ nav ul li {
     width: 71%;
     border-radius: 12px;
     padding: 30px;
-    background-image: url('/covers/bgg.jpg');
+    background-image: url('covers/bgg.jpg');
 }
 
 .bottom {
