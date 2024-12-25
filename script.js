@@ -1,4 +1,4 @@
-console.log("Welcome To Spotfy")
+console.log("Welcome To spotify")
 
 //Initialize the Variable
 let songIndex = 0;
